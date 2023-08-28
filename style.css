@@ -11,7 +11,6 @@ body {
 }
 
 main{
-    width: 310px;
     margin-top: 40px;
 }
 
@@ -29,7 +28,7 @@ p, button, input{
 }
 
 .app-container{
-    width: 100%;
+    width: 320px;
     background-color: #000;
     border-radius: 5px;
     padding: 20px;
@@ -37,6 +36,12 @@ p, button, input{
     flex-direction: column;
     justify-content: center;
     gap: 10px;
+}
+
+form {
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
 }
 
 input {
