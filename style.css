@@ -29,6 +29,7 @@ p, button, input{
 }
 
 .app-container{
+    width: 100%;
     background-color: #000;
     border-radius: 5px;
     padding: 20px;
