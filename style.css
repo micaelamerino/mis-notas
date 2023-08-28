@@ -39,6 +39,7 @@ p, button, input{
 }
 
 form {
+    width: 100%;
     display: flex;
     gap: 5px;
     flex-wrap: wrap;
